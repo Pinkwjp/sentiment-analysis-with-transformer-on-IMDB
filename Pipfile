@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 keras-nlp = "*"
 keras = "*"
+ipykernel = "*"
 
 [dev-packages]
 
