@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0218bdf51ae303e0f34cfd098630fa8655523e1ac47008e57fd6ada25a112445"
+            "sha256": "cb8afe02b4af253e848cf3d4e3b5b5332ed7847ea083beafdfcdf0067718f1a0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1081,7 +1081,8 @@
                 "sha256:e9cf3fba7f389ff8b8342c5fbebb2529321e0ce9e03d7bcb3657ee0876686c36",
                 "sha256:f8a5b83ca4bf1813da158f63479cfdf848c0761e5120258417b3a96074a489f5"
             ],
-            "markers": "platform_machine != 'arm64' or platform_system != 'Darwin'",
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
             "version": "==2.16.1"
         },
         "tensorflow-io-gcs-filesystem": {
