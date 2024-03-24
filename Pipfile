@@ -8,6 +8,7 @@ keras-nlp = "*"
 keras = "*"
 ipykernel = "*"
 tensorflow = "*"
+numpy = "*"
 
 [dev-packages]
 
